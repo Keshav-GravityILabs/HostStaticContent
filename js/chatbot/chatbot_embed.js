@@ -5,8 +5,6 @@ if (userInfo["RightAccessCode"] === "ViewAll" || userInfo["RightAccessCode"] ===
 }
 
 var chatBotConversationCookieName = 'chatbotConversationId';
-var azureSecret = '92AGwo6UgPs.-kDv-l0yab9Kc0acQRdq04wjD7G5qAp6eVLUpZT--lc'; // sdz-chatbot-beta
-// var localSecret = 'Ptb1IuVEWug.cwA.www.1_QJA_ZEZVDqVOt5yZZLKQz4lprwjH3LzjGz1zsaLPQ';
 var typingIndicatorId = 'chatTypingIndicatory';
 var messageListSelector = '#chat-interface ul[role="list"][aria-live="polite"]';
 var chatInputSelector = '#chat-interface input[data-id="webchat-sendbox-input"]';
