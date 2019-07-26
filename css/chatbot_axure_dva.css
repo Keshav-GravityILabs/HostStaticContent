@@ -6,6 +6,7 @@ html, body {
 }
 #chat-interface .content {
 	text-align: left;
+	font-size: 1.2em
 }
 
 #chat-interface .content .from-user{
